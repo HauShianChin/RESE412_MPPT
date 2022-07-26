@@ -16,4 +16,4 @@ The aim is to shift the water heater load to a time that better suits PV power p
 
 ## MPPT assignment 3 412 final and proofread.pdf
 
-- Finally, an MPPT algorithm was designed in simulink and a PCB was fabricated in Altium Designer to further investigate the feasibility of employing a maximum power point tracker for a renewable energy system. Altough PCB design failed, it ultimately demonstrated my understanding of Altium designer and the design process of creating an MPPT. 
+A maximum power point tracker (MPPT) is a device that you will see regularly in household renewable energy systems. It manages the output of the solar panels, typically incorporating a battery management system, sometimes even coupled with an inverter. The MPPT dynamically alters the impedance seen by the photovoltaic (PV) panels. This is particularly advantageous in cloudy conditions or if the load is changing regularly. In this project, I will be designing and building an MPPT that will connect to two 10W polycrystalline panels. Students will test their MPPT against a system which does not have any control in order to determine the success of the MPPT controller. 
