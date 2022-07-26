@@ -4,7 +4,9 @@ MPPT PCB design in Simulink and Altium Designer
 
 ## Final RESE412 assignment 1.pdf
 
-- Techniques were used to design advanced, integrated renewable energy solutions for given situations; these situations were presented in assignment 1 which discusses the topology and the potential to host a renewable energy system for a nano-microgrid. 
+This report, I explored the sizing of a nanogrid and a microgrid, performing a topology analysis. The analysis compares a community of individual nanogrids, with the more traditional method of microgrid design. Individual household power systems operating independently, versus a collective microgrid approach will be discussed.
+
+When both the individual nanogrid and microgrid topologies are designed and simulated, I observed the losses within each topology to ascertain the efficiency of the systems. This information, along with the financial cost of the system will allow me to make a recommendation to a community as to which topology will be more economically viable in the long term.
 
 ## RESE412 assignment 2 demand side management.pdf
 
