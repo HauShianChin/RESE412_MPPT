@@ -10,7 +10,9 @@ When both the individual nanogrid and microgrid topologies are designed and simu
 
 ## RESE412 assignment 2 demand side management.pdf
 
-- These techniques, including demand side management, will be applied to designing, constructing and testing a fit-for-purpose renewable energy system as shown elbroated in assignment 2.
+In report, I will be building on the previous assignment's model to improve the microgrid system with control. Additionally, I will be implementing demand side management (DSM) using a single thermostatically controlled load (water heater) in each house using Simulink. I will revisit the stand-alone PV/battery system and see if I can reduce the capital cost of the solution.
+
+The aim is to shift the water heater load to a time that better suits PV power production. With this shift in load, I should be able to reduce your battery storage and in theory reduce the capital cost of the microgrid solution (ignoring the cost of control infrastructure). Another constraint is that the water reaches “T High WH” at least once a day (T High WH can be found in the Simulink model, ideally its 60 degrees, However, set a little lower in a couple of the houses). This is to ensure bacteria doesn’t build up in the water heater of the Simulink model.
 
 ## MPPT assignment 3 412 final and proofread.pdf
 
